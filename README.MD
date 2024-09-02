@@ -2,7 +2,6 @@
 
 Welcome to the 3D Portfolio project! 🎉 This repository hosts a fully functional portfolio website designed with React.js and Three.js. It offers an immersive experience to showcase your skills and projects in a visually appealing manner.
 
-![3D Portfolio Landing Page](SPLASHSCREEN.png)
 
 ## Overview ℹ️
 
@@ -10,7 +9,7 @@ The 3D Portfolio is a modern and interactive web application built with React.js
 
 ## Live Demo 💻
 
-Explore the live demonstration of the project at [www.sunnypatel.net](www.sunnypatel.net)!
+Explore the live demonstration of the project at !
 
 ## Usage 🛠️
 
@@ -26,7 +25,7 @@ Feel free to explore the codebase and use it as a reference for building your ow
 
 ## Deployment 🌐
 
-This project is deployed on Vercel using Next.js. It dynamically hides environment variables, such as emailJS configuration, to ensure security. You can access the deployed project at [www.sunnypatel.net](www.sunnypatel.net).
+This project is deployed on Vercel using Next.js. It dynamically hides environment variables, such as emailJS configuration, to ensure security. You can access the deployed project at.
 
 ## Built with Vite 🚀
 
@@ -50,10 +49,3 @@ Special thanks to the creators and maintainers of the following libraries and to
 
 This project is open source and licensed under the Sunny Patel License. See the `LICENSE` file for more details.
 
-## Need Help? 🤔
-
-If you have any questions or need assistance, feel free to reach out to me at sunnypatel124555@gmail.com. I'm here to help! 🌞
-
-## GitHub Stars ⭐
-
-![GitHub Repo Stars](https://img.shields.io/github/stars/sunnypatell/react-threejs-portfolio?style=social)
