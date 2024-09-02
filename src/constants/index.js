@@ -69,18 +69,18 @@ export const navLinks = [
     id: "work",
     title: "Work",
   },
-  {
-    id: "extracurricular",
-    title: "Certifications",
-  },
+  // {
+  //   id: "extracurricular",
+  //   title: "Certifications",
+  // },
   {
     id: "skills",
     title: "Skills",
   },
-  {
-    id: "projects",
-    title: "Projects",
-  },
+  // {
+  //   id: "projects",
+  //   title: "Projects",
+  // },
   {
     id: "contact",
     title: "Contact",

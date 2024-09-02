@@ -16,9 +16,9 @@ function App() {
           <About />
           <Education />
           <Experience />
-          <Extracurricular />
+          {/* <Extracurricular /> */}
           <Tech />
-          <Works />
+          {/* <Works /> */}
           {/* <Feedbacks /> */}
           <div className="div relative z-0">
             <Contact />
