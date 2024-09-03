@@ -79,7 +79,7 @@ import portfolio from "./3dportfolio.png";
 import pglife from "./pglife.png";
 import sortingvisualiser from "./sortingvisualiser.png";
 
-import resume from "./Resume-Sunny-Patel.pdf";
+import resume from "./Manit_Garg_Resume.pdf";
 import awsdbcert from "./AWS Database Specialty Certified - Sunny Jayendra Patel.jpg"
 import connectwisecert from "./Connectwise-Scripting-Certification.pdf"
 
