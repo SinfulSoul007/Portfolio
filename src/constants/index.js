@@ -120,17 +120,6 @@ const education = [
   },
   {
     title: "High School",
-    company_name: "Stepping Stone School, India",
-    icon: sss,
-    iconBg: "#fff",
-    date: "2021-2023", 
-    points: [
-      "Percentage: 90%",
-      ,
-    ],
-  },
-  {
-    title: "High School",
     company_name: "Sat Paul Mittal School, India",
     icon: spm,
     iconBg: "#fff",
